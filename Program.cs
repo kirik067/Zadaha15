@@ -1,6 +1,6 @@
 ﻿Console.WriteLine("Ввидите день недели от 1 до 7");
 int num = Convert.ToInt32(Console.ReadLine());
-switch (num = num)
+switch (num)
 {
     case 1:
     Console.WriteLine("Понедельник");
